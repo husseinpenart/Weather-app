@@ -3,11 +3,7 @@
 <b>This app material is ...</b>
 <ul>
 <li>HTML</li>
-  
 <li>CSS</li>
-
 <li>JAVASCRIPT</li>
-
-
-
 </ul>
+<b>God Bless You All</b>
